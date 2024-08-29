@@ -17,3 +17,7 @@
 ![git-5](https://github.com/user-attachments/assets/686ddcd9-640d-4503-ac63-304cf48d4961)
 
 ![image](https://github.com/user-attachments/assets/b147fa40-a49c-4c68-97bc-ba97d75eb871)
+
+Решение 4
+
+![image](https://github.com/user-attachments/assets/57e29c85-6884-4696-8355-8dd15d935b07)
