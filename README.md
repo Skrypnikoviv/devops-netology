@@ -21,3 +21,6 @@
 Решение 4
 
 ![image](https://github.com/user-attachments/assets/57e29c85-6884-4696-8355-8dd15d935b07)
+
+https://gitlab.com/devops-netology7514635/visibility-level
+https://github.com/Skrypnikoviv/devops-netology
